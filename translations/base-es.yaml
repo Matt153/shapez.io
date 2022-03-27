@@ -1341,18 +1341,18 @@ backendErrors:
     no-permission: No tienes los permisos necesarios para llevar a cabo esta acción.
 mods:
     title: Mods
-    author: Author
+    author: Autor
     version: Version
-    modWebsite: Website
-    openFolder: Open Mods Folder
-    folderOnlyStandalone: Opening the mod folder is only possible when running the standalone.
-    browseMods: Browse Mods
-    modsInfo: To install and manage mods, copy them to the mods folder within the
-        game directory. You can also use the 'Open Mods Folder' button on the
-        top right.
-    noModSupport: You need the standalone version on Steam to install mods.
+    modWebsite: Sitio web
+    openFolder: Abrir carpeta de mods
+    folderOnlyStandalone: Abrir la carpeta de mods es solo posible cuando se ejecuta la version de steam del juego.
+    browseMods: Explorar Mods
+    modsInfo: Para instalar y administrar mods, copialos en la carpeta de mods ubicado en
+       el directorio del juego. Tambien puedes usar el boton 'Open Mods Folder' en la
+       parte superior derecha.
+    noModSupport: Necesitas la version de steam para poder instalar mods.
     togglingComingSoon:
-        title: Coming Soon
+        title: Proximamente
         description: Enabling or disabling mods is currently only possible by copying
             the mod file from or to the mods/ folder. However, being able to
             toggle them here is planned for a future update!
